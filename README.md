@@ -2,11 +2,9 @@
 
 **Imagine a world where communication transcends borders, data flows freely, and assets move seamlessly.** Introducing StellarX, a revolutionary **modular asset sharing layer** built on the robust foundation of Stellar. 
 
-![image](https://github.com/Adityaakr/StellarX/assets/128833380/a6cbc2b7-de0d-454a-8051-e1175f789920)
+![image](https://github.com/Adityaakr/Stellar-X/assets/128833380/067684aa-b361-4973-b6a4-6ca25c66ca7a)
 
 
-[Screencast from 18-05-24 04:34:33 PM IST.webm](https://github.com/Adityaakr/StellarX/assets/128833380/bf6e316e-7814-41d9-aafb-53cb743d4a4d)
-]
 
 ## Overview
 
