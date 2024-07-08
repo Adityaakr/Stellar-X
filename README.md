@@ -1,12 +1,11 @@
 # StellarX
+[Screencast from 08-07-24 04:53:04 PM IST.webm](https://github.com/Adityaakr/Stellar-X/assets/128833380/fc3a9511-37dd-4d69-a970-89535d913570)
 
 **Imagine a world where communication transcends borders, data flows freely, and assets move seamlessly.** Introducing StellarX, a revolutionary **modular asset sharing layer** built on the robust foundation of Stellar. 
 
-![image](https://github.com/Adityaakr/Stellar-X/assets/128833380/067684aa-b361-4973-b6a4-6ca25c66ca7a)
-
-
-
 ## Overview
+
+![image](https://github.com/Adityaakr/Stellar-X/assets/128833380/067684aa-b361-4973-b6a4-6ca25c66ca7a)
 
 **StellarX** is a modular asset-sharing layer built on the Stellar blockchain. It allows users to seamlessly share, trade, and manage Messages and Transactions with enhanced security and scalability. This project leverages Stellar's robust network to offer fast and low-cost transactions, making it an ideal platform for decentralized applications.
 
