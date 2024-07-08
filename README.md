@@ -151,4 +151,4 @@ We welcome contributions! Please follow these steps to contribute:
 6. Create a pull request.
 
 Happy coding with STELLARX!
-# StellarX1
+# Stellar-X
